@@ -1,0 +1,8 @@
+public class Planet
+{
+    //private primitive values
+	private double myX;				//upper-left corner of Rectangle
+	private double myY;				//upper-left corner of Rectangle
+	private double myWidth;			//width of Rectangle
+	private double myHeight;		//height of Rectangle
+}
