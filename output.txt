@@ -8,3 +8,13 @@ Item Added:"00012352416343",  "Legion",  "Chocolate Chip Cookie Dough - Protein 
 Enter UPC, Product Brand, Product Name, and Price(enclose string entries in quotes, separate fields with comas and entrie that have spaces with quotes)
 Item Added:"00047332442148",  "Cheetos Cruncy",  "Cheddar Jalapeno - Cheese Flavored Snacks",  4.38
 
+Enter UPC, Product Brand, Product Name, and Price(enclose string entries in quotes, separate fields with comas and entrie that have spaces with quotes)
+Item Added:"00067333448743",  "Quaker Oats",  "Oatmeal - Cereal",  2.89
+
+Enter UPC, Product Brand, Product Name, and Price
+
+Here is an itemized list of the items in your shopping cart:
+Item Added:"00012352416343",  "Legion",  "Chocolate Chip Cookie Dough - Protein Bar",  7.68
+Item Added:"00047332442148",  "Cheetos Cruncy",  "Cheddar Jalapeno - Cheese Flavored Snacks",  4.38
+Item Added:"00067333448743",  "Quaker Oats",  "Oatmeal - Cereal",  2.89
+
